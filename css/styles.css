@@ -68,6 +68,7 @@ a {
     width: 1000px;
     margin: 0 auto;
     overflow: hidden; } }
+
 .row {
   margin-bottom: 0px;
   display: -webkit-box;
@@ -98,6 +99,7 @@ a {
     -webkit-box-ordinal-group: 0;
     -ms-flex-order: -1;
     order: -1; } }
+
 #project1 {
   background: center center url("../img/project1.jpg"); }
 
@@ -171,5 +173,3 @@ nav, .footer-bottom {
   background: #6060de;
   left: calc(50% - 0.5px);
   top: 32px; }
-
-/*# sourceMappingURL=styles.css.map */

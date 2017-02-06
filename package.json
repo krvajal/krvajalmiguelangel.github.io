@@ -1,0 +1,28 @@
+{
+  "name": "krvajal.site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krvajalmiguelangel/krvajalmiguelangel.github.io.git"
+  },
+  "keywords": [
+    "portfolio",
+    "resume"
+  ],
+  "author": "Miguel Carvajal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krvajalmiguelangel/krvajalmiguelangel.github.io/issues"
+  },
+  "homepage": "https://github.com/krvajalmiguelangel/krvajalmiguelangel.github.io#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-sass": "^2.0.0",
+    "load-grunt-tasks": "^3.5.2"
+  }
+}
