@@ -178,16 +178,16 @@ nav, .footer-bottom {
 	left: calc(50% - 0.5px);
 	top: 32px;
 }
-
 nav ul li {
 	position: relative;
-}
-nav ul li.active:after{
-	position: absolute;
-	content: "";
-	left: 0;
-	right: 0;
-	height: 4px;
-	background: white;
-	bottom: 4px;
+
+	&.active:after {
+		position: absolute;
+		content: "";
+		left: 0;
+		right: 0;
+		height: 4px;
+		background: white;
+		bottom: 4px;
+	}
 }

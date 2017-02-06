@@ -176,12 +176,11 @@ nav, .footer-bottom {
 
 nav ul li {
   position: relative; }
-
-nav ul li.active:after {
-  position: absolute;
-  content: "";
-  left: 0;
-  right: 0;
-  height: 4px;
-  background: white;
-  bottom: 4px; }
+  nav ul li.active:after {
+    position: absolute;
+    content: "";
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: white;
+    bottom: 4px; }
